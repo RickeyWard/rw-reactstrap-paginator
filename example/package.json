@@ -1,0 +1,21 @@
+{
+  "name": "rw-reactstrap-paginator-example",
+  "homepage": "https://RickeyWard.github.io/rw-reactstrap-paginator",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "reactstrap": "^5.0.0",
+    "prop-types": "^15.6.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "rw-reactstrap-paginator": "*",
+    "react-scripts": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
