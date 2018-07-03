@@ -18,7 +18,7 @@ npm install --save rw-reactstrap-paginator
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'rw-reactstrap-paginator'
+import Paginator from 'rw-reactstrap-paginator'
 
 class Example extends Component {
   state = {
