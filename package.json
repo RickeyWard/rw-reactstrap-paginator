@@ -1,6 +1,6 @@
 {
   "name": "rw-reactstrap-paginator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a functional, controlled, pagination component for use with reactstrap",
   "author": "RickeyWard",
   "license": "MIT",
