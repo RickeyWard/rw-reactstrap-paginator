@@ -1,6 +1,6 @@
 {
   "name": "rw-reactstrap-paginator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "a functional, controlled, pagination component for use with reactstrap",
   "author": "RickeyWard",
   "license": "MIT",
@@ -8,6 +8,15 @@
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
+  "keywords": [
+    "react",
+    "reactstrap",
+    "library",
+    "pagination",
+    "paginator",
+    "diamonddrake",
+    "paging"
+  ],
   "scripts": {
     "test": "cross-env CI=1 react-scripts test --env=jsdom",
     "test:watch": "react-scripts test --env=jsdom",
